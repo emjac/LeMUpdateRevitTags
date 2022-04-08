@@ -7,3 +7,4 @@ This is a new file that I added to the depth class branch
 >>>>>>> parent of 162b4a6 (Update TextFile InTheDepthClassBranch.txt)
 
 adding an apple
+adding an orange
